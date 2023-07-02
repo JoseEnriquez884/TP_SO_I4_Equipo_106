@@ -9,3 +9,17 @@ En el master el fondo es de color azul
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 En el master quedo el favicon de ALFA
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Al intentar hacer el push de gamma no me dejo ya que me decia que faltaba un git pull
+
+F- ¿Qué problemas surgieron?
+No tuvimos otro inconveniente
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+La solucion que aplicamos fue ejecutar un git pull origin TESTING para traer todos los cambios y asi poder 
+hacer el push de los <p>
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+
