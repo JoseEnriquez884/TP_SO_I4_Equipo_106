@@ -22,4 +22,9 @@ La solucion que aplicamos fue ejecutar un git pull origin TESTING para traer tod
 hacer el push de los <p>
 
 H- ¿Qué sucede si cada uno utiliza el push -f?
+Se suben los cambios de manera forzada
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Se debe hacer un merge de TESTING hacia DESARROLLO
 
